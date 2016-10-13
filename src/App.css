@@ -1,0 +1,40 @@
+.background{
+  background-image: url("bg.jpg");
+} 
+
+.todoAppHeader{
+  font-size: 200%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: black;
+  font-style: normal;
+  text-align: center;
+  margin-top: 245px;
+  background-color: transparent;
+
+
+ 
+}
+ .todoItem{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 20px;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: transparent;
+    background-color: grey;
+    color: white;
+    opacity: 0.5;
+    width: 400px;
+    height: 25px;
+    font-size: 12pt;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+ }
+    .iconDelete{     
+      float: right;
+      margin-right: 15px;
+      margin-top: 4px;  
+    }
+
+
